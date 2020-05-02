@@ -6,7 +6,8 @@ We will be using a web driver for chrome and selenium with python to complete ou
 ********************************************************************
 # JOIN ME ON SOCIAL MEDIA:
 ********************************************************************
-# 🎨 DM ME ON INSTAGRAM: https://www.instagram.com/futureautomate/
+# 🎨 DM ME ON INSTAGRAM: 
+https://www.instagram.com/futureautomate/
 ********************************************************************
 # 👥 SOME RECAP IS IMPORTANT:
 ********************************************************************
