@@ -19,8 +19,10 @@ LINK FOR CODE SNIPPET GITHUB - https://github.com/futureautomate/webautomation
 ********************************************************************
 # MORE ABOUT WHAT YOU WATCHED 🎥:
 ********************************************************************
-► LINK FOR SELENIUM DETAILS - https://selenium.dev/
-► LINK FOR CHROME DRIVER  DOWNLOAD- https://chromedriver.chromium.org/downloads
+► LINK FOR SELENIUM DETAILS - 
+https://selenium.dev/
+► LINK FOR CHROME DRIVER  DOWNLOAD- 
+https://chromedriver.chromium.org/downloads
 ►LINK FOR FIREFOX DRIVER - 
 https://github.com/mozilla/geckodriver/releases
 ►LINK FOR IE DRIVER - 
